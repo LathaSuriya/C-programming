@@ -5,9 +5,9 @@ int main()
     scanf("%c",&c);
 
     if( (c>='a' && c<='z') || (c>='A' && c<='Z'))
-        printf("yes");
+        printf("Alphabet");
     else
-        printf("No");
+        printf("Not an alphabet");
 
     return 0;
 }
