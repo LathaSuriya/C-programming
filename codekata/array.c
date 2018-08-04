@@ -14,7 +14,6 @@ int main()
     {
         printf("%d",a[i]);
     }
-    scanf("%d",&k);
     for(i=0;i<k;i++)
     {
         sum=sum+a[i];
