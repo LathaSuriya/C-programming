@@ -18,7 +18,7 @@ int main()
     {
         sum=sum+a[i];
     }
-    printf("%d",sum);
+    printf("\n%d",sum);
     return 0;
 
 }
